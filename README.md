@@ -1,4 +1,4 @@
-Bonjour, je suis *@SamASTY*.
+# Bonjour, je suis *@SamASTY*.
 
 Vous trouverez ci-dessous mes projets académiques ainsi que des projets personnels développés sur mon temps libre.
 
@@ -9,7 +9,7 @@ Je suis surtout intéressé par les SGBD.
 Je suis en ***recherche d'une alternance pour septembre 2025*** dans ce domaines en ***Île-de-France***.
 Pour me contacter, vous pouvez m'écrire : astysamm@gmail.com
 
-Hello, I’m *@SamASTY*.
+# Hello, I’m *@SamASTY*.
 
 Below you will find my academic projects as well as personal projects I developed in my free time.
 
